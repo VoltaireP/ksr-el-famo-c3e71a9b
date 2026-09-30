@@ -1,0 +1,899 @@
+{
+  "alarms": [],
+  "client": "el-famo",
+  "currency": "USD",
+  "daily": [
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-21",
+      "messages": 18,
+      "meta_spend": 539.23,
+      "pixel_leads": 8,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-21",
+      "messages": 37,
+      "meta_spend": 505.56,
+      "pixel_leads": 12,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-21",
+      "messages": 19,
+      "meta_spend": 486.26,
+      "pixel_leads": 3,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 17,
+      "date": "2026-09-21",
+      "messages": 53,
+      "meta_spend": 541.92,
+      "pixel_leads": 5,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-21",
+      "messages": 29,
+      "meta_spend": 516.7,
+      "pixel_leads": 14,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 5,
+      "date": "2026-09-21",
+      "messages": 24,
+      "meta_spend": 308.59,
+      "pixel_leads": 2,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 6,
+      "date": "2026-09-21",
+      "messages": 39,
+      "meta_spend": 359.95,
+      "pixel_leads": 7,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-22",
+      "messages": 26,
+      "meta_spend": 658.39,
+      "pixel_leads": 18,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-22",
+      "messages": 29,
+      "meta_spend": 519.5,
+      "pixel_leads": 14,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-22",
+      "messages": 26,
+      "meta_spend": 537.44,
+      "pixel_leads": 8,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 26,
+      "date": "2026-09-22",
+      "messages": 53,
+      "meta_spend": 603.81,
+      "pixel_leads": 9,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-22",
+      "messages": 32,
+      "meta_spend": 525.02,
+      "pixel_leads": 16,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 6,
+      "date": "2026-09-22",
+      "messages": 40,
+      "meta_spend": 384.58,
+      "pixel_leads": 4,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 10,
+      "date": "2026-09-22",
+      "messages": 33,
+      "meta_spend": 311.83,
+      "pixel_leads": 4,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-23",
+      "messages": 25,
+      "meta_spend": 580.84,
+      "pixel_leads": 11,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-23",
+      "messages": 39,
+      "meta_spend": 461.57,
+      "pixel_leads": 12,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-23",
+      "messages": 30,
+      "meta_spend": 434.28,
+      "pixel_leads": 0,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 11,
+      "date": "2026-09-23",
+      "messages": 55,
+      "meta_spend": 598.72,
+      "pixel_leads": 10,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-23",
+      "messages": 40,
+      "meta_spend": 525.41,
+      "pixel_leads": 10,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 4,
+      "date": "2026-09-23",
+      "messages": 28,
+      "meta_spend": 338.5,
+      "pixel_leads": 4,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 5,
+      "date": "2026-09-23",
+      "messages": 39,
+      "meta_spend": 374.11,
+      "pixel_leads": 6,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-24",
+      "messages": 27,
+      "meta_spend": 558.47,
+      "pixel_leads": 15,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-24",
+      "messages": 28,
+      "meta_spend": 411.68,
+      "pixel_leads": 7,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-24",
+      "messages": 20,
+      "meta_spend": 494.15,
+      "pixel_leads": 4,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 32,
+      "date": "2026-09-24",
+      "messages": 32,
+      "meta_spend": 497.71,
+      "pixel_leads": 3,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-24",
+      "messages": 28,
+      "meta_spend": 459.7,
+      "pixel_leads": 12,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 8,
+      "date": "2026-09-24",
+      "messages": 21,
+      "meta_spend": 309.51,
+      "pixel_leads": 6,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 7,
+      "date": "2026-09-24",
+      "messages": 30,
+      "meta_spend": 282.14,
+      "pixel_leads": 2,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-25",
+      "messages": 21,
+      "meta_spend": 471.65,
+      "pixel_leads": 13,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-25",
+      "messages": 31,
+      "meta_spend": 385.34,
+      "pixel_leads": 6,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-25",
+      "messages": 29,
+      "meta_spend": 411.62,
+      "pixel_leads": 8,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 25,
+      "date": "2026-09-25",
+      "messages": 38,
+      "meta_spend": 479.06,
+      "pixel_leads": 3,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-25",
+      "messages": 34,
+      "meta_spend": 422.23,
+      "pixel_leads": 10,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 5,
+      "date": "2026-09-25",
+      "messages": 20,
+      "meta_spend": 292.61,
+      "pixel_leads": 1,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 8,
+      "date": "2026-09-25",
+      "messages": 25,
+      "meta_spend": 280.47,
+      "pixel_leads": 2,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-26",
+      "messages": 32,
+      "meta_spend": 562.02,
+      "pixel_leads": 14,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-26",
+      "messages": 35,
+      "meta_spend": 445.31,
+      "pixel_leads": 6,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-26",
+      "messages": 32,
+      "meta_spend": 442.99,
+      "pixel_leads": 7,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 27,
+      "date": "2026-09-26",
+      "messages": 38,
+      "meta_spend": 563.31,
+      "pixel_leads": 8,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-26",
+      "messages": 52,
+      "meta_spend": 524.11,
+      "pixel_leads": 9,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 4,
+      "date": "2026-09-26",
+      "messages": 30,
+      "meta_spend": 334.39,
+      "pixel_leads": 2,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 8,
+      "date": "2026-09-26",
+      "messages": 39,
+      "meta_spend": 314.4,
+      "pixel_leads": 4,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-27",
+      "messages": 33,
+      "meta_spend": 682.34,
+      "pixel_leads": 6,
+      "segment": "Surf City",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-27",
+      "messages": 22,
+      "meta_spend": 495.03,
+      "pixel_leads": 13,
+      "segment": "Corona",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-27",
+      "messages": 34,
+      "meta_spend": 564.6,
+      "pixel_leads": 6,
+      "segment": "San Bernardino",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 22,
+      "date": "2026-09-27",
+      "messages": 39,
+      "meta_spend": 643.09,
+      "pixel_leads": 5,
+      "segment": "Audi",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 0,
+      "date": "2026-09-27",
+      "messages": 37,
+      "meta_spend": 588.91,
+      "pixel_leads": 7,
+      "segment": "Puente Hills",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 2,
+      "date": "2026-09-27",
+      "messages": 32,
+      "meta_spend": 391.69,
+      "pixel_leads": 6,
+      "segment": "Kia",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    },
+    {
+      "appointments_booked": 5,
+      "date": "2026-09-27",
+      "messages": 32,
+      "meta_spend": 386.73,
+      "pixel_leads": 7,
+      "segment": "Mazda",
+      "tiktok_leads": 0,
+      "tiktok_spend": 0
+    }
+  ],
+  "display_name": "El Famosisimo",
+  "generated_at": "2026-09-30T02:46:14.438131-07:00",
+  "headline": [
+    {
+      "format": "money",
+      "key": "meta_spend",
+      "label": "Meta ad spend",
+      "prior": 23060.19,
+      "trend": [
+        22294.04,
+        22061.35,
+        22336.66,
+        21909.5,
+        23705.41,
+        22838.56,
+        23060.19,
+        22807.47
+      ],
+      "value": 22807.47
+    },
+    {
+      "format": "int",
+      "key": "messages",
+      "label": "Messages",
+      "prior": 1597,
+      "trend": [
+        1787,
+        1728,
+        1751,
+        1615,
+        1947,
+        1723,
+        1597,
+        1585
+      ],
+      "value": 1585
+    },
+    {
+      "format": "money",
+      "key": "cost_per_message",
+      "label": "Cost per message",
+      "prior": 14.44,
+      "trend": [
+        12.48,
+        12.77,
+        12.76,
+        13.57,
+        12.18,
+        13.26,
+        14.44,
+        14.39
+      ],
+      "value": 14.39
+    },
+    {
+      "format": "int",
+      "key": "pixel_leads",
+      "label": "Lead forms",
+      "prior": 404,
+      "trend": [
+        374,
+        426,
+        400,
+        392,
+        454,
+        449,
+        404,
+        369
+      ],
+      "value": 369
+    },
+    {
+      "format": "int",
+      "key": "appointments_booked",
+      "label": "Appointments booked",
+      "prior": 202,
+      "trend": [
+        227,
+        231,
+        240,
+        187,
+        225,
+        213,
+        202,
+        243
+      ],
+      "value": 243
+    }
+  ],
+  "insight": null,
+  "labels": {
+    "cpl": "Cost per lead form",
+    "meta_spend": "Meta ad spend",
+    "pixel_leads": "Lead forms"
+  },
+  "metrics": {
+    "appointments_booked": 243,
+    "appointments_showed": 50,
+    "cost_per_message": 14.39,
+    "cpl": 61.81,
+    "crm_leads": 0,
+    "crm_leads_raw": 0,
+    "ctr": 0.017642,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 1344864,
+    "landing_page_views": 0,
+    "link_clicks": 23726,
+    "messages": 1585,
+    "meta_spend": 22807.47,
+    "pixel_leads": 369,
+    "reach": 837029,
+    "spend": 22807.47,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "segment_label": "dealership",
+  "segments": [
+    {
+      "metrics": {
+        "appointments_booked": 0,
+        "appointments_showed": 0,
+        "cost_per_message": 22.27,
+        "cpl": 47.68,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.017391,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 226560,
+        "landing_page_views": 0,
+        "link_clicks": 3940,
+        "messages": 182,
+        "meta_spend": 4052.94,
+        "pixel_leads": 85,
+        "reach": 129213,
+        "spend": 4052.94,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "Surf City"
+    },
+    {
+      "metrics": {
+        "appointments_booked": 0,
+        "appointments_showed": 0,
+        "cost_per_message": 14.59,
+        "cpl": 46.06,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.019122,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 168389,
+        "landing_page_views": 0,
+        "link_clicks": 3220,
+        "messages": 221,
+        "meta_spend": 3223.99,
+        "pixel_leads": 70,
+        "reach": 102537,
+        "spend": 3223.99,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "Corona"
+    },
+    {
+      "metrics": {
+        "appointments_booked": 0,
+        "appointments_showed": 0,
+        "cost_per_message": 17.74,
+        "cpl": 93.65,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.015778,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 185387,
+        "landing_page_views": 0,
+        "link_clicks": 2925,
+        "messages": 190,
+        "meta_spend": 3371.34,
+        "pixel_leads": 36,
+        "reach": 101919,
+        "spend": 3371.34,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "San Bernardino"
+    },
+    {
+      "metrics": {
+        "appointments_booked": 160,
+        "appointments_showed": 27,
+        "cost_per_message": 12.75,
+        "cpl": 91.34,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.019782,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 258260,
+        "landing_page_views": 0,
+        "link_clicks": 5109,
+        "messages": 308,
+        "meta_spend": 3927.62,
+        "pixel_leads": 43,
+        "reach": 172000,
+        "spend": 3927.62,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "Audi"
+    },
+    {
+      "metrics": {
+        "appointments_booked": 0,
+        "appointments_showed": 0,
+        "cost_per_message": 14.14,
+        "cpl": 45.67,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.017551,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 212868,
+        "landing_page_views": 0,
+        "link_clicks": 3736,
+        "messages": 252,
+        "meta_spend": 3562.08,
+        "pixel_leads": 78,
+        "reach": 132214,
+        "spend": 3562.08,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "Puente Hills"
+    },
+    {
+      "metrics": {
+        "appointments_booked": 34,
+        "appointments_showed": 9,
+        "cost_per_message": 12.1,
+        "cpl": 94.39,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.016906,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 149768,
+        "landing_page_views": 0,
+        "link_clicks": 2532,
+        "messages": 195,
+        "meta_spend": 2359.87,
+        "pixel_leads": 25,
+        "reach": 100849,
+        "spend": 2359.87,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "Kia"
+    },
+    {
+      "metrics": {
+        "appointments_booked": 49,
+        "appointments_showed": 14,
+        "cost_per_message": 9.75,
+        "cpl": 72.18,
+        "crm_leads": 0,
+        "crm_leads_raw": 0,
+        "ctr": 0.015763,
+        "google_conversions": 0,
+        "google_spend": 0,
+        "impressions": 143632,
+        "landing_page_views": 0,
+        "link_clicks": 2264,
+        "messages": 237,
+        "meta_spend": 2309.63,
+        "pixel_leads": 32,
+        "reach": 98297,
+        "spend": 2309.63,
+        "tiktok_leads": 0,
+        "tiktok_spend": 0
+      },
+      "name": "Mazda"
+    }
+  ],
+  "top_ads": [
+    {
+      "ad_name": "12.2-Control-VID-11:24_2.MOV-Send Message",
+      "campaign_name": "KS-NSC-Puente Hills Messages-Winner Ads-CB0-scaled 6.5",
+      "crm_leads": null,
+      "messages": 78,
+      "pixel_leads": 0,
+      "spend": 985.9
+    },
+    {
+      "ad_name": "Ad-VID-3 26 1-Send Messages",
+      "campaign_name": "KS-Non Special Category-Mazda-Messages-Winner-CBO",
+      "crm_leads": null,
+      "messages": 75,
+      "pixel_leads": 0,
+      "spend": 654.61
+    },
+    {
+      "ad_name": "Ad-VID-3 26  Kia 4-Send Messages",
+      "campaign_name": "KS-Non Special Category-Kia-Messages-Winner-CBO",
+      "crm_leads": null,
+      "messages": 66,
+      "pixel_leads": 0,
+      "spend": 616.04
+    },
+    {
+      "ad_name": "7.23-Control--EP 789634693293296- -Send Messages",
+      "campaign_name": "KS-NSG-OG-Audi Messages-Winner-CBO-Scaled 7.10",
+      "crm_leads": null,
+      "messages": 61,
+      "pixel_leads": 0,
+      "spend": 551.77
+    },
+    {
+      "ad_name": "REBUILT 6.2-Winner Vid + June Copy-VID-0224 8.MOV-Send Message",
+      "campaign_name": "KS-DCT-NSC-San Bernardino Messages-Winner Ads-CBO- Scaled 7.10",
+      "crm_leads": null,
+      "messages": 59,
+      "pixel_leads": 0,
+      "spend": 909.86
+    }
+  ],
+  "unavailable": [
+    "crm_leads",
+    "crm_leads_raw",
+    "tiktok_spend",
+    "tiktok_leads",
+    "google_spend",
+    "google_conversions"
+  ],
+  "verification": {
+    "checks": [
+      {
+        "detail": "weekly window has 7 day(s)",
+        "name": "window_span",
+        "ok": true
+      },
+      {
+        "detail": "meta 22807.47, google 0.00, tiktok 0.00, total 22807.47",
+        "name": "spend",
+        "ok": true
+      },
+      {
+        "detail": "non-spend aggregate metrics match raw rows",
+        "name": "raw_metrics",
+        "ok": true
+      },
+      {
+        "detail": "raw 0, counted 0",
+        "name": "crm_leads",
+        "ok": true
+      },
+      {
+        "detail": "expected 61.81, got 61.81",
+        "name": "cpl",
+        "ok": true
+      },
+      {
+        "detail": "segment totals do not exceed report totals",
+        "name": "segments_additive",
+        "ok": true
+      },
+      {
+        "detail": "segments cover report totals",
+        "name": "segments_coverage",
+        "ok": true
+      },
+      {
+        "detail": "all headline trends have eight matching points",
+        "name": "headline_trends",
+        "ok": true
+      },
+      {
+        "detail": "raw rows by date: 2026-09-21=44, 2026-09-22=58, 2026-09-23=36, 2026-09-24=63, 2026-09-25=54, 2026-09-26=55, 2026-09-27=45",
+        "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "report keys and values match the allowlist",
+        "name": "schema_allowlist",
+        "ok": true
+      },
+      {
+        "detail": "meta pixel leads 369.00, CRM leads 0",
+        "name": "tracking_drift",
+        "ok": true
+      }
+    ],
+    "status": "pass"
+  },
+  "window": {
+    "end": "2026-09-27",
+    "label": "Sep 21 to Sep 27",
+    "start": "2026-09-21"
+  }
+}

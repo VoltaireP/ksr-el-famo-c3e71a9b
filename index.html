@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>El Famosisimo results</title>
+  <style>
+    :root { color-scheme: light dark; --bg:Canvas; --card:Canvas; --ink:CanvasText; --muted:GrayText; --line:color-mix(in srgb, CanvasText 18%, Canvas); --good:#087c54; --bad:#c43232; --accent:LinkText; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; line-height:1.4; }
+    main { width:min(100%, 960px); margin:0 auto; padding:20px 14px 32px; overflow-wrap:anywhere; }
+    h1 { margin:0; font-size:1.45rem; letter-spacing:-.02em; }
+    .period { margin:3px 0 18px; color:var(--muted); font-size:.9rem; }
+    .tiles { display:grid; grid-template-columns:repeat(auto-fit,minmax(155px,1fr)); gap:10px; }
+    .tile, .panel, details { background:var(--card); border:1px solid var(--line); border-radius:12px; }
+    .tile { min-height:140px; padding:14px; display:grid; grid-template-columns:1fr 58px; grid-template-rows:auto 1fr auto; gap:4px; }
+    .label { color:var(--muted); font-size:.82rem; font-weight:650; grid-column:1 / -1; }
+    .value { font-size:1.42rem; font-weight:750; align-self:end; letter-spacing:-.025em; }
+    .change { font-size:.78rem; font-weight:700; align-self:end; text-align:right; }
+    .good { color:var(--good); } .bad { color:var(--bad); } .neutral { color:var(--muted); }
+    svg { grid-column:1 / -1; width:100%; height:31px; overflow:visible; } .spark { fill:none; stroke:var(--accent); stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    .summary { margin:18px 2px; font-size:1rem; font-weight:600; }
+    .panel { margin-top:14px; padding:14px; overflow:hidden; }
+    h2 { margin:0 0 10px; font-size:1rem; }
+    .table-wrap { overflow-x:auto; margin:0 -14px; padding:0 14px; }
+    table { border-collapse:collapse; width:100%; min-width:440px; font-size:.86rem; }
+    th, td { padding:10px 8px; text-align:right; border-bottom:1px solid var(--line); white-space:nowrap; }
+    th { color:var(--muted); font-size:.72rem; text-transform:uppercase; letter-spacing:.03em; } th:first-child, td:first-child { text-align:left; }
+    tr:last-child td { border-bottom:0; }
+    .ad { display:grid; grid-template-columns:minmax(0,1fr) auto auto; gap:8px; padding:11px 0; border-bottom:1px solid var(--line); font-size:.9rem; }
+    .ad:last-child { border-bottom:0; } .ad-name { font-weight:650; } .campaign { color:var(--muted); font-size:.78rem; }
+    details { margin-top:14px; padding:0 14px; } summary { cursor:pointer; padding:14px 0; font-weight:700; } .details-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(145px,1fr)); gap:8px; padding:0 0 14px; }
+    .detail { padding:9px; border:1px solid var(--line); border-radius:8px; } .detail b { display:block; margin-top:2px; }
+    footer { margin-top:20px; color:var(--muted); font-size:.78rem; } .verify { font-weight:700; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>El Famosisimo results</h1>
+    <p class="period">Sep 21 to Sep 27</p>
+    <section class="tiles" aria-label="Headline results"><article class="tile"><span class="label">Meta ad spend</span><strong class="value">$22,807.47</strong><span class="change bad">↓ 1.1%</span><svg viewBox="0 0 100 31" role="img" aria-label="Trend"><polyline class="spark" points="0.0,22.6 14.3,25.9 28.6,22.1 42.9,28.0 57.1,3.0 71.4,15.1 85.7,12.0 100.0,15.5" /></svg></article><article class="tile"><span class="label">Messages</span><strong class="value">1,585</strong><span class="change bad">↓ 0.8%</span><svg viewBox="0 0 100 31" role="img" aria-label="Trend"><polyline class="spark" points="0.0,14.0 14.3,18.1 28.6,16.5 42.9,25.9 57.1,3.0 71.4,18.5 85.7,27.2 100.0,28.0" /></svg></article><article class="tile"><span class="label">Cost per message</span><strong class="value">$14.39</strong><span class="change good">↓ 0.3%</span><svg viewBox="0 0 100 31" role="img" aria-label="Trend"><polyline class="spark" points="0.0,24.7 14.3,21.5 28.6,21.6 42.9,12.6 57.1,28.0 71.4,16.1 85.7,3.0 100.0,3.6" /></svg></article><article class="tile"><span class="label">Lead forms</span><strong class="value">369</strong><span class="change bad">↓ 8.7%</span><svg viewBox="0 0 100 31" role="img" aria-label="Trend"><polyline class="spark" points="0.0,26.5 14.3,11.2 28.6,18.9 42.9,21.2 57.1,3.0 71.4,4.5 85.7,17.7 100.0,28.0" /></svg></article><article class="tile"><span class="label">Appointments booked</span><strong class="value">243</strong><span class="change good">↑ 20.3%</span><svg viewBox="0 0 100 31" role="img" aria-label="Trend"><polyline class="spark" points="0.0,10.1 14.3,8.4 28.6,4.3 42.9,28.0 57.1,11.0 71.4,16.4 85.7,21.3 100.0,3.0" /></svg></article></section>
+    <p class="summary"></p>
+    <section class="panel"><h2>Results by dealership</h2><div class="table-wrap"><table><thead><tr><th>Dealership</th><th>Meta ad spend</th><th>Messages</th><th>Cost per message</th><th>Lead forms</th><th>Appointments booked</th></tr></thead><tbody><tr><td>Surf City</td><td>$4,052.94</td><td>182</td><td>$22.27</td><td>85</td><td>0</td></tr><tr><td>Corona</td><td>$3,223.99</td><td>221</td><td>$14.59</td><td>70</td><td>0</td></tr><tr><td>San Bernardino</td><td>$3,371.34</td><td>190</td><td>$17.74</td><td>36</td><td>0</td></tr><tr><td>Audi</td><td>$3,927.62</td><td>308</td><td>$12.75</td><td>43</td><td>160</td></tr><tr><td>Puente Hills</td><td>$3,562.08</td><td>252</td><td>$14.14</td><td>78</td><td>0</td></tr><tr><td>Kia</td><td>$2,359.87</td><td>195</td><td>$12.10</td><td>25</td><td>34</td></tr><tr><td>Mazda</td><td>$2,309.63</td><td>237</td><td>$9.75</td><td>32</td><td>49</td></tr></tbody></table></div></section>
+    <section class="panel"><h2>Top ads</h2><div class="ad"><div><div class="ad-name">12.2-Control-VID-11:24_2.MOV-Send Message</div><div class="campaign">KS-NSC-Puente Hills Messages-Winner Ads-CB0-scaled 6.5</div></div><div>$985.90</div><div>0 lead forms, 78 messages</div></div><div class="ad"><div><div class="ad-name">Ad-VID-3 26 1-Send Messages</div><div class="campaign">KS-Non Special Category-Mazda-Messages-Winner-CBO</div></div><div>$654.61</div><div>0 lead forms, 75 messages</div></div><div class="ad"><div><div class="ad-name">Ad-VID-3 26  Kia 4-Send Messages</div><div class="campaign">KS-Non Special Category-Kia-Messages-Winner-CBO</div></div><div>$616.04</div><div>0 lead forms, 66 messages</div></div><div class="ad"><div><div class="ad-name">7.23-Control--EP 789634693293296- -Send Messages</div><div class="campaign">KS-NSG-OG-Audi Messages-Winner-CBO-Scaled 7.10</div></div><div>$551.77</div><div>0 lead forms, 61 messages</div></div><div class="ad"><div><div class="ad-name">REBUILT 6.2-Winner Vid + June Copy-VID-0224 8.MOV-Send Message</div><div class="campaign">KS-DCT-NSC-San Bernardino Messages-Winner Ads-CBO- Scaled 7.10</div></div><div>$909.86</div><div>0 lead forms, 59 messages</div></div></section>
+    <details><summary>Details</summary><div class="details-grid"><div class="detail"><span class="label">Appointments booked</span><b>243</b></div><div class="detail"><span class="label">Appointments showed</span><b>50</b></div><div class="detail"><span class="label">Cost per message</span><b>$14.39</b></div><div class="detail"><span class="label">Cost per lead form</span><b>$61.81</b></div><div class="detail"><span class="label">Leads (CRM)</span><b>Not connected yet</b></div><div class="detail"><span class="label">Raw CRM leads</span><b>Not connected yet</b></div><div class="detail"><span class="label">CTR</span><b>1.8%</b></div><div class="detail"><span class="label">Google conversions</span><b>Not connected yet</b></div><div class="detail"><span class="label">Google spend</span><b>Not connected yet</b></div><div class="detail"><span class="label">Impressions</span><b>1,344,864</b></div><div class="detail"><span class="label">Landing page views</span><b>0</b></div><div class="detail"><span class="label">Link clicks</span><b>23,726</b></div><div class="detail"><span class="label">Messages</span><b>1,585</b></div><div class="detail"><span class="label">Meta ad spend</span><b>$22,807.47</b></div><div class="detail"><span class="label">Lead forms</span><b>369</b></div><div class="detail"><span class="label">Reach</span><b>837,029</b></div><div class="detail"><span class="label">Ad spend</span><b>$22,807.47</b></div><div class="detail"><span class="label">TikTok leads</span><b>Not connected yet</b></div><div class="detail"><span class="label">TikTok spend</span><b>Not connected yet</b></div></div></details>
+    <footer><strong>How we count.</strong> Lead: Leads are Facebook messages started and Facebook lead forms submitted, as counted by Meta for the week. Appointments from the CRM are added in the next release. Booked: Appointments booked are GoHighLevel appointments created during the week on the Audi, Kia, Mazda and website calendars (Valencia group). The other dealerships&#x27; bookings are not in this calendar group. Updated Sep 30, 2026 2:46 AM UTC-07:00. <span class="verify good">Verification: Pass.</span></footer>
+  </main>
+</body>
+</html>
