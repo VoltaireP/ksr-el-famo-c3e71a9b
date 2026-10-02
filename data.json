@@ -584,6 +584,12 @@
     }
   ],
   "insight": null,
+  "insights": {
+    "creative": "The video ads that open with 'yes, help me get a car' and list who we help (ITIN, self-employed, first-time buyers, all credit types) start the most conversations. The work truck angle is the most efficient of the top ads. Next we will test it in the other regions.",
+    "doing": "Appointments booked rose to 243 from 202 the week before, and 50 appointments showed up. Conversations held steady at 1,585 for $14.39 each, while lead form sign-ups slipped to 369 from 404.",
+    "look_into": "Surf City is the costliest region per conversation at $22.27 against $14.39 for the account overall, and San Bernardino has the highest cost per lead form at $93.65. Four of the new September ads were not approved in Meta's review; we will fix and resubmit any still blocked.",
+    "next": "The new September videos went live across the dealerships between Sep 22 and Sep 26, so next we will give them a full week before judging them, then move budget toward the dealerships with the lowest cost per conversation, Mazda and Kia first."
+  },
   "labels": {
     "cpl": "Cost per lead form",
     "meta_spend": "Meta ad spend",
